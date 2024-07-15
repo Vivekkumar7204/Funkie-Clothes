@@ -1,0 +1,670 @@
+body{
+   
+    
+   
+}
+.div1{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(205, 255, 104);
+    width: 182%;
+}
+    
+
+    .div2 li{
+        font-size: 23px;
+        display: inline-block;
+        margin: 15px;
+        color: rgb(41, 7, 7);
+        margin-left: 115px;
+     
+    }
+    .div2{
+        margin-left: -2px;
+        background-color: rgb(163, 255, 78);
+        width: 182%;
+    }
+    li:hover{
+        background-color: rgb(20, 20, 20);
+        color: rgb(247, 230, 230);
+        transition: all 1s;
+        /* height: 2px; */
+        /* margin-top: -100px; */
+        cursor: pointer;
+    }
+    .vv a{
+        font-size: 23px;
+        display: inline-block;
+        margin: 15px;
+        color: rgb(41, 7, 7);
+        
+        text-decoration: none;
+        margin-left: 96px;
+    }
+    .aa1:hover{
+        background-color: rgb(20, 20, 20);
+        color: rgb(247, 230, 230);
+        transition: all 1s;
+        cursor: pointer;
+    }
+    .div2{
+        margin-left: -2px;
+        background-color: rgb(163, 255, 78);
+        
+    }
+    .pr2{
+        margin-top: -581px;
+        margin-left: 39pc;
+        font-size: 28px;
+        width: 46%;
+    }
+    .pr1{
+        margin-left: 39pc;
+        margin-top: 2pc;
+        font-size: 25px;
+        width: 46%;
+        
+    }
+    .bt{
+        margin-left: 44pc;
+        margin-top: -56px;
+        width: 46%;
+        
+    }
+    .pg2{
+        margin-top: 10px;
+        margin-left: 10pc;
+        width: 46%;
+    }
+    .sz{
+        background-color: white;
+        border-color: rgb(178, 248, 137);
+        margin: 5px;
+        cursor: pointer;
+        font-size: 20px;
+        
+        
+    }
+    .sz:hover{
+        background-color: rgb(137, 245, 110);
+    }
+    
+    .pg2{
+        margin-left: 39pc;
+        margin-top: -23px;
+        width: 37pc;
+    }
+    .pg3{
+        margin-top: 2pc;
+        margin-left: 39pc;
+        width: 46%;
+    }
+    .h02{
+        margin-top: 41px;
+        margin-left: 39pc;
+        width: 46%;
+    }
+    .btn1{
+        margin-top: -167px;
+        margin-left: 4pc;
+    }
+    .bt2{
+        font-size: 30px;
+        margin-top: -39px;
+        border-color: rgb(178, 248, 137);
+        background-color: rgb(118, 250, 66);
+        border-radius: 8px;
+        cursor: pointer;
+    }
+    .bt3{
+        font-size: 30px;
+        margin-top: -39px;
+        border-color: rgb(178, 248, 137);
+        background-color: rgb(118, 250, 66);
+        margin-left: 53px;
+        border-radius: 8px;
+        cursor: pointer;
+        width: 176px;
+    }
+    .bt2:hover{
+        background-color: rgb(243, 247, 241);
+        color: rgb(22, 22, 22);
+
+    }
+    .bt3:hover{
+        background-color: rgb(243, 247, 241);
+        color: rgb(22, 22, 22);
+
+    }
+    .ch{
+        color: rgb(108, 245, 90);
+        background-color: rgb(17, 17, 17);
+        cursor: pointer;
+    }
+    .container1{    
+        width: 80%;
+        height: auto;
+        display:flex;
+        /* flex-direction: row;
+        
+        justify-content: center;
+        align-items: center; */
+        border: 2px;
+        margin: 10px;
+        margin-left: 0pc;
+    }
+    .div15 {
+        width: 171px;
+        height: 266px;
+        background-color: rgb(82, 255, 91);
+        border: 10px;
+        border-radius: 10px;
+        margin: 48px;
+        font-size: 15px;
+        padding: 10px 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .ima{
+        width: 220px;
+        height: 220px;
+        margin-left: -25px;
+        margin-top: -5px;
+        border-radius: 10px
+    }
+    .ee{
+        margin-top: 0px;
+    }
+    .em{
+        margin-top: -16px;
+    }
+    .pn{
+        width: 46%;
+       margin-left: 39pc;
+       margin-top: 10pc;
+    }
+    .hh4{
+        width: 40%;
+        margin-left: 43pc;
+        font-size: 35px;
+    }
+    .sp{
+        width: 40%;
+    }
+    .imp{
+        font-size: 15px;
+        width: 71px;
+        height: 20px;
+    }
+
+
+
+    /* footer */
+    
+    
+    .fo{
+        background-color: rgb(22, 173, 243);
+        width: 1333px;
+        height: 468px
+    }
+    .ab1{
+        /* display: flex; */
+        justify-content: center;
+        align-items: center;
+        margin-left:39pc;
+        
+    }
+    .ha12{
+        display: flex;
+        /* justify-content: center;
+        align-items: center; */
+        margin-left:460px ;
+       
+    
+    }
+    .ab3{
+        margin-left: -37px;
+        margin-top: 50px;
+    }
+    
+    .divf1{
+        margin-top: 31px;
+        margin-left: 10px;
+    }
+    
+    .divf2{
+        margin-top: -106px;
+        margin-left: 370px;
+    }
+    
+    .divf3{
+        margin-top: -106px;
+        margin-left: 700px;
+    
+    }
+    .pp3{
+        margin-top: -7px;
+        margin-left: -2pc;
+    }
+    
+    .divf4{
+        margin-left: 850px;
+        margin-top: 50px;
+        cursor: pointer;
+        /* border-radius: 50px; */
+    
+    }
+    .divf4 .a1{
+        border-radius: 50px;
+    }
+    
+    .pic{
+        
+        margin-left: 658px;
+    }
+    
+    .im{
+        width: 299px;
+        height: 300px;
+        margin-left: -27px;
+        margin-top: -7px;
+    }
+    
+    .vv li{
+        margin-left: 104px;
+    
+    }
+    .pic2{
+        margin-top: -385px;
+        margin-left: 656px;
+    }
+    .py{
+        margin-left: -730px;
+        width: 1107px;
+    }
+    .pm{
+        margin-left: -744px;
+        margin-top: 30px;
+        font-size: 25px;
+    }
+    .pb{
+      
+        /* width: 73px; */
+        margin-left: -731px;
+        margin-top: -26px;
+        font-size: 20px;
+    }
+    .x{
+        margin-left: 88px;
+    }
+    .co{
+        margin-top: -10px;
+        margin-left: 99px;
+        font-size: 13px;
+    }
+    .card{
+        margin-top: -10px;
+        margin-left: -400px;
+        font-size: 20px;
+    }
+    .cd{
+        margin-top: -53px;
+        margin-left: 17pc;
+    }
+    .master{
+        margin-top:-36px ;
+        margin-left: 14pc;
+        font-size: 20px;
+    }
+    .pc{
+        margin-top: -78px;
+    }
+    .ee{
+        margin-top: 0px;
+    }
+    .em{
+        margin-top: -16px;
+    } 
+    .im11{
+        width: 510px;
+        height: 566px;
+        margin-top: 40px;
+    } 
+    .hed{
+        margin-left: 39pc;
+        margin-top: 19px;
+        font-size: 30px;
+    } 
+    .sp{
+        margin-left: 39pc;
+        margin-top: 16px;
+        font-size: 24px;
+    } 
+    .bd{
+        width:46pc;
+    }                                                                                                   
+
+
+
+
+
+
+
+
+
+
+
+
+    @media screen and (max-width: 600px)
+    {
+        .div1{
+            font-size: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(205, 255, 104);
+            width: 410%;
+        }
+        .vv{
+            width: 223%;
+        }
+        .div2{
+            margin-left: -2px;
+            background-color: rgb(163, 255, 78);
+            width: 410%;
+        }
+        .vv li{
+            margin-left: 286px;
+        }
+        .fo{
+            background-color: rgb(22, 173, 243);
+            width: 2360px;
+            height: 478px;
+        }
+        .im11{
+            width: 105pc;
+            height: 78pc;
+            margin-left: 25pc;
+            
+        }
+        .container1{    
+            width: 100%;
+            height: auto;
+            display:flex;
+            flex-direction: row;
+            /* flex-wrap: wrap; */
+            justify-content: center;
+            align-items: center;
+            border: 2px;
+            margin: 10px;
+            margin-left: 852px; 
+        }
+        .div15 {
+            width: 171px;
+            height: 266px;
+            background-color: rgb(82, 255, 91);
+            border: 10px;
+            border-radius: 10px;
+            margin: 172px;
+            font-size: 15px;
+            padding: 10px 30px;
+            text-decoration: none;
+            color: black;
+        }
+        .div1{
+            font-size: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(205, 255, 104);
+        }
+        .pr2{
+            /* margin-top: -581px; */
+            font-size: 42px;
+            display: inline;
+            margin-left: 6pc;
+        }
+        .pr1{
+            margin-left: 0pc;
+            margin-top: 0pc;
+            font-size: 72px;
+        }
+        .bt{
+            margin-left: 11pc;
+            margin-top: -373px;
+            font-size: 19pc;
+            
+        }
+        .pg2{
+            margin-top: 30px;
+            margin-left: 2pc;
+            font-size: 39px;
+        }
+        .sz{
+            background-color: white;
+            border-color: rgb(178, 248, 137);
+            margin: 5px;
+            cursor: pointer;
+        }
+        .hed{
+            margin-left: 9pc;
+            margin-top: -26px;
+            font-size: 48px;
+        } 
+        .h02{
+            margin-top: 74px;
+            margin-left: 6pc;
+            font-size: 55px;
+        }
+    }
+
+
+
+      @media (max-width: 400px){
+        
+        
+        .bd{
+            width: 1310px;
+
+        }
+        .div1{
+            font-size: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(205, 255, 104);
+            width: 97pc;
+        }
+        .vv{
+            width: 100%;
+        }
+    
+    .div2{
+        margin-left: -2px;
+        background-color: rgb(163, 255, 78);
+        width: 97pc;
+    }
+    .vv li{
+        margin-left: 161px;
+        display: inline;
+        
+    }
+    .fo{
+        background-color: rgb(22, 173, 243);
+        width: 1550px;
+        height:545px;
+    }
+    .im12{
+        width: 28px;
+        height: 502px;
+        margin-top: 7px;
+        margin-left: 27pc;
+        
+    }
+    .container1{    
+        width: 100%;
+        height: auto;
+        display:flex;
+        flex-direction: row;
+       
+        justify-content: center;
+        align-items: center;
+        border: 2px;
+        margin: 10px; 
+        margin-left: 100px;
+        margin-top: 105pc;
+    }
+    .div15 {
+        width: 171px;
+        height: 266px;
+        background-color: rgb(82, 255, 91);
+        border: 10px;
+        border-radius: 10px;
+        margin: 67px;
+        font-size: 15px;
+        padding: 10px 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .im11{
+        width: 22px;
+        height: 502px;
+        margin-top: -3px;
+        margin-left: 12px;
+    } 
+    .pr2{
+       
+        font-size: 92px;
+        
+    }
+    .pg2{
+        margin-left: 10px;
+        width: 89pc;
+        font-size: 61px;
+        margin-top: -65px;
+    }
+    .hh4{
+        margin-left: 270px;
+        font-size: 78px;
+    }
+    .pr1{
+        margin-top: -26px;
+        margin-left: 26px;
+    }
+    .bt{
+        margin-top: -368px;
+        width: 91%;
+        margin-left: 154px;
+    }
+    
+    .sz{
+        font-size: 56px;
+        margin-left: 58px;
+    }
+    .sp{
+        margin-left: 2pc;
+        margin-top: 354px;
+        font-size: 70px;
+    }
+    .container01{
+        margin-top: 136px;
+        margin-left: -76px;
+    }
+    .container02{
+        margin-top: -340px;
+    }
+    .h02{
+        margin-top: 37px;
+        font-size: 65px;
+        margin-left: 11px;
+    }
+    .container03{
+        margin-top: -123pc;
+        margin-left: 27pc;
+    }
+    .bt3{
+        font-size: 30px;
+        margin-top: -39px;
+        border-color: rgb(178, 248, 137);
+        background-color: rgb(118, 250, 66);
+        margin-left: 53px;
+        border-radius: 8px;
+        cursor: pointer;
+        width: 338px;
+        font-size: 65px;
+    }
+    .bt2{
+        font-size: 30px;
+        margin-top: -39px;
+        border-color: rgb(178, 248, 137);
+        background-color: rgb(118, 250, 66);
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 65px;
+    }
+    .imp{
+        background-color: blueviolet;
+        color: black;
+        font-size: 60px;
+        width: 278px;
+        height: 118px;
+    }
+    .pg3{
+        margin-top: 3pc;
+        margin-left: 2pc;
+        width: 94%;
+        font-size: 56px;
+    }
+    .inp{
+       
+        width: 241px;
+        height: 53px;
+        margin-left: -24pc;
+    }
+    .ch{
+        color: rgb(108, 245, 90);
+        background-color: rgb(17, 17, 17);
+        cursor: pointer;
+        margin-left: 2pc;
+        margin-top: 2pc;
+        font-size: 43px;
+    }
+    .ab1{
+        /* display: flex; */
+        justify-content: center;
+        align-items: center;
+        margin-left:39pc;
+        font-size: 36px;
+    }
+    .ha12{
+        display: flex;
+        /* justify-content: center;
+        align-items: center; */
+        margin-left:460px ;
+        font-size: 33px;
+    
+    }
+    .ab2{
+        font-size: 44px;;
+    }
+    .pp1{
+        font-size: 30px;
+    }
+    .pp2{
+        font-size: 30px;
+        margin-top: -10pc;
+    }
+    .divf3{
+        font-size: 30px;
+        margin-left: 54pc;
+        margin-top: -14pc;
+    }
+    .py{
+        width: 1160px;
+    }
+    .pm{
+      font-size: 33px;
+    }
+}
