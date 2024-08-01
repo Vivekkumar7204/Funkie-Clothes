@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: rgb(205, 255, 104);
-    width: 182%;
+    width: 205%;
 }
     
 
@@ -24,7 +24,7 @@ body{
     .div2{
         margin-left: -2px;
         background-color: rgb(163, 255, 78);
-        width: 182%;
+        width: 205%;
     }
     li:hover{
         background-color: rgb(20, 20, 20);
@@ -41,7 +41,7 @@ body{
         color: rgb(41, 7, 7);
         
         text-decoration: none;
-        margin-left: 96px;
+        margin-left: 170px;
     }
     .aa1:hover{
         background-color: rgb(20, 20, 20);
@@ -153,7 +153,7 @@ body{
         align-items: center; */
         border: 2px;
         margin: 10px;
-        margin-left: 0pc;
+        margin-left: 6pc;
     }
     .div15 {
         width: 171px;
@@ -206,7 +206,7 @@ body{
     
     .fo{
         background-color: rgb(22, 173, 243);
-        width: 1333px;
+        width: 1511px;
         height: 468px
     }
     .ab1{
@@ -282,7 +282,7 @@ body{
     }
     .py{
         margin-left: -730px;
-        width: 1107px;
+        width: 1274px;
     }
     .pm{
         margin-left: -744px;
@@ -581,7 +581,7 @@ body{
         margin-left: 11px;
     }
     .container03{
-        margin-top: -130pc;
+        margin-top: -123pc;
         margin-left: 27pc;
     }
     .bt3{
@@ -603,7 +603,7 @@ body{
         border-radius: 8px;
         cursor: pointer;
         font-size: 65px;
-         
+        margin-top: -10px;
     }
     .imp{
         background-color: blueviolet;
